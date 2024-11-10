@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Red cliff background/red cliff night ovject/red cliff night.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
